@@ -18,7 +18,7 @@ https://walterlaw19.github.io/first-portfolio/
 
 ## contribution
 ```
-Made with ❤️️ by Walter G
+email me at waltercode19@gmail.com if you want to contribute to this page
 ```
 
 ---
