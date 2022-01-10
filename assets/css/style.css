@@ -11,3 +11,18 @@ header {
     color: white;
     text-align: center;
 }
+
+#sc-symbol {
+    width: 200px;
+    height: 120px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+/* Resize images */
+#sc-symbol img {
+    width: 100%;
+    height: auto;
+}
