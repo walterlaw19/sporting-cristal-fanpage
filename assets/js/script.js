@@ -3,6 +3,8 @@ var ScPlayers = ["Herrera", "Rivera", "Julinho", "Uribe", "Soto"];
 
 // var squadListButton = document.getElementById("show-squad");
 
+
+// MUST MAKE A LOOP HERE!!!  //
 function showSquad () {
     var squadList = document.createElement("div");
     squadList.textContent = ScPlayers[0];
@@ -12,8 +14,21 @@ function showSquad () {
     squadList.textContent = ScPlayers[1];
     squadListBtn.appendChild(squadList);
 
+    var squadList = document.createElement("div");
+    squadList.textContent = ScPlayers[2];
+    squadListBtn.appendChild(squadList);
+
+    var squadList = document.createElement("div");
+    squadList.textContent = ScPlayers[3];
+    squadListBtn.appendChild(squadList);
+
+    var squadList = document.createElement("div");
+    squadList.textContent = ScPlayers[4];
+    squadListBtn.appendChild(squadList);
 
 }
+
+// MUST CREATE A LOOP HERE//
 
 squadListBtn = document.getElementById("show-squad");
 squadListBtn.addEventListener("click", showSquad)
