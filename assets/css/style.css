@@ -1,0 +1,13 @@
+* {
+    background-color: lightskyblue;
+}
+header {
+    size: 20px;
+    color: rgb(13, 26, 31);
+    text-align: center;
+}
+
+.squad {
+    color: white;
+    text-align: center;
+}
