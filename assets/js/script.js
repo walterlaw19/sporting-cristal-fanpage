@@ -1,3 +1,6 @@
+var SCfan = prompt("Bienvenido(a)! Como te llamas, personita triste?");
+window.alert( "Nos Alegra que estes con nosotros, " + SCfan + " !!!. Aqui encontraras la mejor informacion y articulos de nuestro amor eterno. Fuerza Cristal!");
+
 
 var ScPlayers = ["Herrera", "Rivera", "Julinho", "Uribe", "Soto"];
 
